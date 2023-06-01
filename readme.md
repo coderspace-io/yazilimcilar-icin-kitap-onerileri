@@ -99,5 +99,6 @@ Bilgisayar algoritmaları sadece bilgisayarlar için mi geçerlidir? Günlük ha
 
 **Algorithms to Live By**, günlük hayatta karşılaştığımız karar verme süreçlerinde algoritmik düşünceyi nasıl kullanabileceğimizi anlatır. Kitap, bilgisayar biliminden ve matematikten ilham alarak, karmaşık sorunları çözme ve en iyi kararları verme konusunda bize rehberlik eder.
 
-![Codecast by Coderspace.io](https://drive.google.com/file/d/1UCynK9UsxkG38FaqNl7tESpGz4GKpKaG/view?usp=sharing)
+![Purple Abstract World Podcast Day Landscape Banner](https://github.com/coderspace-io/Yazilimcilar-icin-kitap-onerileri/assets/126458989/21eb89fa-bc34-49c1-9dd8-3e9cec82400b)
+
 
