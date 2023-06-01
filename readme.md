@@ -6,6 +6,9 @@ Yazılım mühendisliği, teknolojinin hızla ilerlediği günümüzde oldukça 
 
 İyi bir yazılım mühendisi olmanın yollarından biri de kaliteli kaynaklardan yararlanmaktır. Bu yazımızda, yazılım mühendisi olmak isteyenlere en iyi **5 kitap önerisini** sunacağız. Bu kitaplar, yazılım dünyasındaki temel prensipleri, tasarım desenlerini, kod kalitesini ve daha fazlasını ele almaktadır. Şimdi, gelin beraber bu kitaplara göz atalım. 🙇‍♀️👇
 |
+
+
+
 **1️⃣ “Clean Code" - Robert C. Martin**
 
 İlk kitap önerimiz, yazılım mühendisliğinde **temiz kod** yazmanın önemini vurgulayan "**Clean Code**" kitabı. Bu kitap, **Robert C. Martin** tarafından kaleme alınmıştır ve yazılım dünyasında klasikleşmiş bir başvuru kaynağıdır.
@@ -24,6 +27,7 @@ Clean Code kitabı, kod yazma becerilerinizi geliştirmenize yardımcı olacak �
 
 
 
+
 ### 2️⃣ "Design Patterns" - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
 
 İkinci kitap önerimiz, "**Design Patterns**" yani "**Tasarım Desenleri**" kitabı. Bu kitap, **Erich Gamma**, **Richard Helm**, **Ralph Johnson** ve **John Vlissides** tarafından yazılmış bir başyapıttır diyebiliriz.
@@ -33,6 +37,7 @@ Clean Code kitabı, kod yazma becerilerinizi geliştirmenize yardımcı olacak �
 Bu kitap, tasarım desenlerini kavramanızı ve uygulamanızı sağlayarak yazılım geliştirme becerilerinizi geliştirmenize yardımcı olacaktır. Örneğin, **Singleton**, **Factory**, **Observer**,***Strategy*** gibi desenler, yazılım projelerinde sıkça karşılaşılan sorunlara çözüm sunar. Bu desenler, kodunuzun daha esnek, bakımı kolay ve genişletilebilir olmasını sağlar. Kitap, her bir deseni ayrıntılı olarak açıklar, örneklerle destekler ve gerçek dünya uygulamalarına yer verir.
 
   
+
 
 ### 3️⃣ "The Pragmatic Programmer" - Andrew Hunt, David Thomas
 
@@ -44,6 +49,7 @@ Bu kitap, tasarım desenlerini kavramanızı ve uygulamanızı sağlayarak yazı
 
   
 
+
 ### 4️⃣ "Refactoring: Mevcut Kodun Tasarımını İyileştirme" - Martin Fowler
 
 “**Refactoring: Mevcut Kodun Tasarımını İyileştirme**” kitabı, yazılım mühendislerine mevcut kod tabanlarını nasıl iyileştirebileceklerini öğreten önemli bir kaynaktır.
@@ -54,6 +60,7 @@ Yazılım projelerinde sıklıkla karşılaşılan sorunlardan biri, zaman için
 
   
 
+
 ### 5️⃣ "Code Complete" - Steve McConnell
 
 Son kitap önerimiz, yazılım mühendisliği alanında bir klasik haline gelen "**Code Complete**" kitabı. **Steve McConnell** tarafından kaleme alınan bu kitap, yazılım geliştirme sürecinin her aşamasında karşılaşılan sorunları ele alır ve çözüm önerileri sunar.
@@ -63,6 +70,7 @@ Son kitap önerimiz, yazılım mühendisliği alanında bir klasik haline gelen 
 Code Complete, yazılım mühendislerinin teknik yeterliliklerini artırmak için bir **rehber niteliğindedir** diyebiliriz. Kitap, kod yazma sürecindeki en iyi uygulamaları, kod stilini, adlandırma kurallarını, hata ayıklama tekniklerini ve daha fazlasını ele alır. "**Code Complete**" kitabını okuyarak, yazılım mühendisliği kariyerinizde daha başarılı olmak için gerekli bilgi ve becerileri edinebilirsiniz.
 
   
+
 
 ### 🎧 Bonus: Dinleyebileceğiniz Sesli Kitaplar
 
@@ -79,6 +87,7 @@ Code Complete, yazılım mühendislerinin teknik yeterliliklerini artırmak içi
 
 Bu sesli kitap, **yazılım** ve **IT alanında** **[DevOps](https://coderspace.io/sozluk/devops)** uygulamalarını anlatan bir roman formatında kaleme alınmıştır. Hikaye, bir IT projesinin sıkıntılarına odaklanırken, DevOps prensiplerini ve uygulamalarını anlatır. Dinlerken hem keyif alacak hem de yazılım projelerinin nasıl daha verimli bir şekilde yönetilebileceğini öğreneceksiniz.
 
+  
   
 
 2.  #### Algorithms to Live By - Brian Christian, Tom Griffiths
