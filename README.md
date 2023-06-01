@@ -1,1 +1,0 @@
-# Yazilimcilar-icin-kitap-onerileri
