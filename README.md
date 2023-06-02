@@ -1,4 +1,4 @@
-﻿# **Yazılımcılar İçin Kitap Önerisi 📚💡**
+﻿# **Yazılımcılar İçin Kitap Önerileri 📚💡**
 
 Yazılım mühendisliği, teknolojinin hızla ilerlediği günümüzde oldukça önemli bir kariyer seçeneği haline geldi. Yazılım dünyasında başarılı olmak ve gelişmek için sürekli olarak kendinizi güncel tutmalısınız.
 
