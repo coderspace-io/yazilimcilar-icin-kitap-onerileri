@@ -99,6 +99,11 @@ Bilgisayar algoritmaları sadece bilgisayarlar için mi geçerlidir? Günlük ha
 
 **Algorithms to Live By**, günlük hayatta karşılaştığımız karar verme süreçlerinde algoritmik düşünceyi nasıl kullanabileceğimizi anlatır. Kitap, bilgisayar biliminden ve matematikten ilham alarak, karmaşık sorunları çözme ve en iyi kararları verme konusunda bize rehberlik eder.
 
-![Purple Abstract World Podcast Day Landscape Banner](https://github.com/coderspace-io/Yazilimcilar-icin-kitap-onerileri/assets/126458989/21eb89fa-bc34-49c1-9dd8-3e9cec82400b)
+[![Purple Abstract World Podcast Day Landscape Banner](https://github.com/coderspace-io/Yazilimcilar-icin-kitap-onerileri/assets/126458989/21eb89fa-bc34-49c1-9dd8-3e9cec82400b)](https://www.example.com/hedef_baglanti)
 
 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/coderspaceio/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coderspace_io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/coderspace-io//)
+[![Codecast](https://img.shields.io/badge/Codecast-%2381b71a.svg?&style=for-the-badge&logo=codecast&logoColor=white)](https://open.spotify.com/show/76XNB92UbdvDwTdeXDtzNF)
